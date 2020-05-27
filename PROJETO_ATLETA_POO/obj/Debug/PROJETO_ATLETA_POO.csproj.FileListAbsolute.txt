@@ -1,0 +1,10 @@
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\bin\Debug\PROJETO_ATLETA_POO.exe.config
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\bin\Debug\PROJETO_ATLETA_POO.exe
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\bin\Debug\PROJETO_ATLETA_POO.pdb
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.csprojAssemblyReference.cache
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.Form1.resources
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.Properties.Resources.resources
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.csproj.GenerateResource.cache
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.exe
+C:\Users\Vinicius Neri\source\repos\PROJETO_ATLETA_POO\obj\Debug\PROJETO_ATLETA_POO.pdb
