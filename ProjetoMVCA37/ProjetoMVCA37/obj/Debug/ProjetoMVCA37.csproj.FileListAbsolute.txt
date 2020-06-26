@@ -1,0 +1,5 @@
+C:\Users\Mathe\source\repos\z4r0s\POO\ProjetoMVCA37\ProjetoMVCA37\obj\Debug\ProjetoMVCA37.csprojAssemblyReference.cache
+C:\Users\Mathe\source\repos\z4r0s\POO\ProjetoMVCA37\ProjetoMVCA37\obj\Debug\ProjetoMVCA37.Form1.resources
+C:\Users\Mathe\source\repos\z4r0s\POO\ProjetoMVCA37\ProjetoMVCA37\obj\Debug\ProjetoMVCA37.Properties.Resources.resources
+C:\Users\Mathe\source\repos\z4r0s\POO\ProjetoMVCA37\ProjetoMVCA37\obj\Debug\ProjetoMVCA37.csproj.GenerateResource.cache
+C:\Users\Mathe\source\repos\z4r0s\POO\ProjetoMVCA37\ProjetoMVCA37\obj\Debug\ProjetoMVCA37.csproj.CoreCompileInputs.cache
